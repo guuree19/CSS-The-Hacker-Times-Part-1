@@ -1,1 +1,105 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+
+
+nav{
+    background-color: rgba(197, 194, 194, 0.897);
+    text-align: center;
+    padding: 1em;
+    width: 100%;
+    
+
+
+}
+
+.newspaper-container {
+    width: 700px;
+
+}
+.newspaper-container .date{
+    position: relative;
+    top: 0px;
+    bottom: 150px;
+}
+.newspaper-container h1{
+    text-align: center;
+}
+nav li a{
+   
+    text-decoration: none;
+    color: rgb(27, 14, 1);
+    
+    
+}
+
+nav ul{
+    font-size: 12px;
+    font-family: sans-serif;
+}
+
+nav li{
+    display: inline-block;
+    margin: auto;
+    padding: 0.4em;
+    text-decoration: none;
+    word-spacing: -2px;
+    
+    
+    
+    
+
+
+}
+main{
+    text-align: center;
+    padding: 4em;
+    display: inline-block;
+}
+
+main h5{
+    position: relative;
+    right: 200px;
+    top:15px;
+    color: rgb(247, 11, 11);
+}
+
+main p{
+    display: inline-block;
+  text-align: center; 
+  text-align: justify; 
+  width: 60%;
+  padding: 4em;
+  position: relative;
+  bottom: 50px;
+  
+}
+.more-articles ,p{
+
+  text-align: center; 
+  text-align: justify; 
+  width: 60%;
+  padding: 4em;
+  
+}
+
+.more-articles .img2 ,.par2{
+    position: relative;
+    left:360px;
+    bottom: 614px;
+}
+.more-articles .second_title{
+    position: relative;
+    left:360px;
+    bottom: 614px;
+}
+
+
+.more-articles section {
+
+    display: inline-block;
+    margin: auto;
+    padding: 3em;
+    
+    
+
+
+}
